@@ -1,5 +1,3 @@
-![Screenshot_20250324_145708](https://github.com/user-attachments/assets/358c5334-0dd0-4994-bef8-9fe0cf8873cd)# BMI Calculator
-
 BMI Calculator là một ứng dụng tính chỉ số BMI (Body Mass Index) sử dụng Capacitor, Vite và Yarn. Ứng dụng hỗ trợ các tính năng:
 
 - Tính toán chỉ số BMI.
