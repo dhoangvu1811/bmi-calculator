@@ -1,4 +1,4 @@
-# BMI Calculator
+![Screenshot_20250324_145708](https://github.com/user-attachments/assets/358c5334-0dd0-4994-bef8-9fe0cf8873cd)# BMI Calculator
 
 BMI Calculator là một ứng dụng tính chỉ số BMI (Body Mass Index) sử dụng Capacitor, Vite và Yarn. Ứng dụng hỗ trợ các tính năng:
 
@@ -56,3 +56,9 @@ Sau đó, trong Android Studio, chọn thiết bị (giả lập hoặc thiết 
 1. Nhập **chiều cao (cm)** và **cân nặng (kg)**.
 2. Nhấn **"Tính BMI"** để xem kết quả.
 3. Sử dụng **"Chia sẻ kết quả"** hoặc **"Chụp ảnh"** (nếu muốn).
+
+## Ảnh ứng dụng
+
+![Screenshot_20250324_145708](https://github.com/user-attachments/assets/8e859853-97b5-4577-8551-473da09547f5)
+![Screenshot_20250324_145638](https://github.com/user-attachments/assets/ac2b5029-ed08-4ad2-94fe-ea30d1d154ac)
+
