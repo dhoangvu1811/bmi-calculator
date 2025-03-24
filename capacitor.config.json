@@ -1,0 +1,6 @@
+{
+  "appId": "com.DHV.app",
+  "appName": "bmi-calculator",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
